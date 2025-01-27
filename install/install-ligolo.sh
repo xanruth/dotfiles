@@ -1,5 +1,5 @@
 cd /usr/share
-sudo mkdir ligolo && cd ligolo
+sudo mkdir ligolo-ng && cd ligolo-ng
 sudo mkdir linux windows
 
 sudo wget \
